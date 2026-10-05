@@ -7,8 +7,8 @@ Tienda web de una farmacia hecha con **PHP + MySQL**: catálogo, buscador, carri
 ```
 farmacia-web/
 ├── config/
-│   ├── database.example.php   # plantilla de conexión (se sube a GitHub)
-│   └── database.php           # tus datos reales (ignorado por git)
+│   ├── database.example.php   # plantilla de conexión 
+│   └── database.php         
 ├── database/
 │   └── schema.sql             # tablas + datos de ejemplo
 ├── includes/                  # código compartido
