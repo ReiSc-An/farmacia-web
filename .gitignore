@@ -1,0 +1,6 @@
+# Contiene contraseñas: no subir a GitHub
+config/database.php
+.DS_Store
+# Imágenes subidas desde el panel
+public/uploads/productos/*
+!public/uploads/productos/.gitkeep
