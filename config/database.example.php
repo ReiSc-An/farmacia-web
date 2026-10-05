@@ -1,5 +1,5 @@
 <?php
-
+/////
 return [
     'host' => 'localhost',
     'bd'   => 'farmacia',
